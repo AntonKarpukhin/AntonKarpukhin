@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" height="100"/>
-<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </div>
-
+<img src="https://github.com/AntonKarpukhin/AntonKarpukhin/blob/main/images/mee.gif?raw=true" href="https://github.com/AntonKarpukhin" alt="CoDiNg RocKs"  width="60%"/><br> 
 
 
