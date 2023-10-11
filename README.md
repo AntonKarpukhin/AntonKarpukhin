@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning React, Typescript and Node.js.  
   
 
-- 📞 How to reach me: Telegram @LembrarB  
+- 📞 How to reach me: [![Telegram Badge]](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
   
 
 - 🚀 Always ready to collaborate for Dev Experiments  
@@ -91,12 +91,8 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AntonKarpukhin&&style=flat-square" align="center" />
 </div>  
-  
 
 <br/>  
-
-
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
