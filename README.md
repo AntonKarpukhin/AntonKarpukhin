@@ -83,16 +83,13 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=AntonKarpukhin&show_icons=true&count_private=true&hide_border=true" alt="webDev's Github stats" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=AntonKarpukhin&show_icons=true&count_private=true&hide_border=true" alt="webDev's Github stats&theme=vision-friendly-dark" />
     </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AntonKarpukhin&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
-
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AntonKarpukhin&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>   
 
