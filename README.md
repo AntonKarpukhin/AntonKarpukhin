@@ -80,6 +80,18 @@
 <br/>  
 
 ## Github Stats  
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=AntonKarpukhin&show_icons=true&count_private=true&hide_border=true" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AntonKarpukhin&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
+
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AntonKarpukhin&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>   
@@ -96,4 +108,3 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-<img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AntonKarpukhin&layout=compact&theme=vision-friendly-dark" />
