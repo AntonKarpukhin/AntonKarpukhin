@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning React, Typescript and Node.js.  
   
 
-- 📞 How to reach me: [![Telegram Badge]](https://t.me/f1llzzz(https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+- 📞 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/lembrarb) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:a.karpukhin21@gmail.com)
   
 
 - 🚀 Always ready to collaborate for Dev Experiments  
