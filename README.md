@@ -19,7 +19,7 @@
 - 🚀 Always ready to collaborate for Dev Experiments  
   
 
--  🌐 Visit my porfolio [website](https://antonkarpukhin.github.io/portfolio/) for complete background and contact.  
+-  🌐 Visit my porfolio [website](https://antonkarpukhin.com/) for complete background and contact.  
   
 
 <br/>  
